@@ -12,7 +12,7 @@ Clone repo into desired location on your device
 `npm install`
 `npm run dev`
 
-Navigate to --- and upload xml file from the repo
+Navigate to wp admin > tools > import > Wordpress > install > run importer, and upload xml file from the repo.
 That will populate your page with dummy blog posts.
 
 Create .env.local file within repo.
